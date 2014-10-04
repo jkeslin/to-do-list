@@ -49,7 +49,7 @@ To mark an item as completed, write the item number of the item that you complet
 ruby todo.rb completed 2
 ```
 
-Check out the resoureces below!
+Check out the resources below!
 
 ## Resources
 
